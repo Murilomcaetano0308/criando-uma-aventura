@@ -1,5 +1,16 @@
 body{
     background-color:rgb(56, 109, 189);
     color: rgb(255, 255, 255);
-    font-family:"Peralta", serif;;
+    font-family:"Peralta", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: rgb(60, 54, 136);
+    color: rgb(255, 255, 255);
+    font-family:"Peralta", serif;
 }
