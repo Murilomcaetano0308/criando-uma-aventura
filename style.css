@@ -12,5 +12,13 @@ body{
 button{
     background-color: rgb(60, 54, 136);
     color: rgb(255, 255, 255);
-    font-family:"Peralta", serif;
+    font-family:"Peralta",sans-serif;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
 }
